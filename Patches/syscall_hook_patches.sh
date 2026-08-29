@@ -16,7 +16,6 @@ patch_files=(
     security/selinux/ss/services.c
     kernel/reboot.c
     kernel/sys.c
-    include/linux/seccomp.h
 )
 
 PATCH_LEVEL="2.2"
